@@ -1,0 +1,25 @@
+{
+  "name": "soup",
+  "stats": {
+    "hp": 1,
+    "ac": 1,
+    "speed": 0
+  },
+  "abilities": {
+    "strength": 0,
+    "dexterity": 0,
+    "constitution": 4,
+    "intelligence": 0,
+    "wisdom": 0,
+    "charisma": 5
+  },
+  "attack": {
+    "name": "inanimate object",
+    "damage": 0
+  },
+  "special": {
+      "name": "yummy yummy",
+      "description": "The soup is eaten.",
+      "effect": "-1 hp to soup, +25 hp to consumer."
+  }
+}
